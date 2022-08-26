@@ -1,1 +1,1 @@
-# C-Electrical-Resistors
+# C# Electrical-Resistors
